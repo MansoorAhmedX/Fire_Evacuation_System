@@ -1,0 +1,9 @@
+# Project ignores
+.venv/
+__pycache__/
+*.pyc
+cms/experiments/__pycache__/
+docs/*.aux
+docs/*.log
+docs/*.out
+docs/compile*.log
